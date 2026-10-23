@@ -1,7 +1,7 @@
 # Hr-analytics-powerbi
 I have created an interactive Power BI report that analyzes employee headcount, hiring trends, workforce demographics and attrition drivers for a company of 1,470 employees (2012 to 2022).
 
-Business questions
+# Business questions
 
 How many employees are active vs. inactive, and what is the overall attrition rate?
 
@@ -13,10 +13,11 @@ What does the workforce look like by gender, age, marital status and ethnicity?
 
 Which factors overtime, business travel, tenure, department, job role are linked to higher attrition?
 
-Tools used
+# Tools used
+
 Power BI Desktop, DAX, Power Query, data modeling.
 
-Key Findings
+# Key Findings
 
 Overall attrition is 16.1%. 237 of 1,470 employees have left, leaving 1,233 active.
 
@@ -28,7 +29,7 @@ Hiring is steady. Roughly 90 to 130 active hires per year from 2012 to 2022, wit
 
 Marital status split: Married 42.5%, Single 37.4%, Divorced 20.2%.
 
-Recommendations
+# Recommendations
 
 Reduce overtime: review workloads and staffing in teams with heavy overtime, and set overtime limits or compensation, since overtime is linked to nearly 3x higher attrition.
 
