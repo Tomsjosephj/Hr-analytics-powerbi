@@ -2,6 +2,7 @@
 I have created an interactive Power BI report that analyzes employee headcount, hiring trends, workforce demographics and attrition drivers for a company of 1,470 employees (2012 to 2022).
 
 Business questions
+
 How many employees are active vs. inactive, and what is the overall attrition rate?
 How has hiring developed from 2012 to 2022?
 Which departments and job roles make up the workforce?
